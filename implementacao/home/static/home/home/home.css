@@ -86,7 +86,7 @@ main {
     /* border-style: dotted; */
 }
 .logo {
-    width: 32px;
+    width: 48px;
 }
 #Post{
     background-color: white;
@@ -95,3 +95,12 @@ main {
     width: 400;
     height: 150;
 }
+.lbl-icon {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+}
+.navbar {
+box-shadow: none !important;
+}
+.middle { display: inline-block; margin-left: 50%; transform: translateX(-50%); }
